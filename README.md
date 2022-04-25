@@ -1,4 +1,4 @@
-<h1 align="center"> Data Modeling & ETL with Postgres  </h1> <h2 align="center"> Data Engineering Nanodegree - Udacity </h2>
+<h1 align="center"> Data Modeling & ETL with Postgres  </h1> <p align="center"> Data Engineering Nanodegree - Udacity </>
 
 
 ## Project Description
@@ -87,5 +87,5 @@ test.ipynb
 ```
 Run ```create_tables.py``` file to reset tables before each time run your ETL scripts.
 
-## Author
+## :star:Contact
 Burcu Belen - [Linkedin](https://www.linkedin.com/in/burcu-belen/)
